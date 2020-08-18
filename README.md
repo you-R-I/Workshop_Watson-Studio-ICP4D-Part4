@@ -150,9 +150,3 @@ On the Test tab, we can pass in a scoring payload JSON object to score the model
 
 The prediction result is given in terms of the probability that the customer will churn (1/True) or not (0/False). You can try it with other values.
 
-## If you have any questions just contact me
-
-Felix Augenstein<br>
-Digital Tech Ecosystem & Developer Representative @IBM<br>
-Twitter: [@F_Augenstein](https://twitter.com/F_Augenstein)<br>
-LinkedIn: [linkedin.com/in/felixaugenstein](https://www.linkedin.com/in/felixaugenstein/)
